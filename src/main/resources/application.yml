@@ -4,7 +4,7 @@ spring:
   data:
     neo4j:
       username: neo4j
-      password: Passw0rd
+      password: 
       open-in-view: true
       embedded:
         enabled: false
