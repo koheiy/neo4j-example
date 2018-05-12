@@ -1,0 +1,11 @@
+server:
+  port: 8900
+spring:
+  data:
+    neo4j:
+      username: neo4j
+      password: Passw0rd
+      open-in-view: true
+      embedded:
+        enabled: false
+      uri: bolt://192.168.1.16:7687
